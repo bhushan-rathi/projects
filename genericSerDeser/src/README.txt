@@ -1,4 +1,5 @@
-This code is used to convert DPML(a markup langauge) to JAVA Objects and again producing DPML file as it is with the help of Objects 
+This project deals with a mark-up langauge and JAVA Objects
+DPML(a markup langauge) file is provided as an input to convert it into JAVA Objects and again producing DPML file as it is with the help of created Objects 
 JAVA Reflection and Strategy Pattern is used to code 
 
 
