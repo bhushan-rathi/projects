@@ -1,4 +1,5 @@
-This code is used to convert DPML(a markup langauge) to Objects with the help of JAVA Reflection and Design pattern used is Strategy Pattern 
+This code is used to convert DPML(a markup langauge) to JAVA Objects and again producing DPML file as it is with the help of Objects 
+JAVA Reflection and Strategy Pattern is used to code 
 
 
 ## To clean:
